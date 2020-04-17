@@ -1,6 +1,6 @@
 ## About App
 
-This app was bootstrapped using [React Js](https://reactjs.org "See react js documentation"). The data are using is taken from one of a free API's Covid-19 that i found in the internet. Created by [Muhammad Mustadi](https://twitter.com/mathdroid), he lives in Jakarta, Indonesia. If you wanna use the API as well, _[link here](https://github.com/mathdroid/covid-19-api)_. So basically, API stands for Application Programming Interface. In basic term, APIs just allow applications to communicate with one another. _[Read more about api](https://en.wikipedia.org/wiki/Application_programming_interface)_.
+This app was bootstrapped using [React Js](https://reactjs.org "See react js documentation"). The data used is taken from one of a free API's Covid-19 that i found in the internet. Created by [Muhammad Mustadi](https://twitter.com/mathdroid), he lives in Jakarta, Indonesia. If you wanna use the API as well, _[link here](https://github.com/mathdroid/covid-19-api)_. So basically, API stands for Application Programming Interface. In basic term, APIs just allow applications to communicate with one another. _[Read more about api](https://en.wikipedia.org/wiki/Application_programming_interface)_.
 
 ## Thanks to
 
