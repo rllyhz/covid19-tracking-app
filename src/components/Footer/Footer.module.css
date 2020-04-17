@@ -1,0 +1,9 @@
+.container {
+  background-color: rgb(27, 27, 27) !important;
+  text-align: center !important;
+  margin-top: 2em;
+}
+
+.text {
+  text-align: center;
+}
